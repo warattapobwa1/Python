@@ -28,4 +28,4 @@ l = b"Hello" #bytes
 m = bytearray(5) #bytearray
 n = memoryview(bytes(5)) #memoryview
 o = None #NoneType
-#if you want to set specific data type use type(variables)
+#if you want to set specific data type use type(variables).
